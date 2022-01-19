@@ -3,9 +3,6 @@
 
 int main()
 {
-
-    //Please Enter Your Code Here
-
     char paren[50];
     int paren_len;
     int myStack[50], myTop; // myStack은 숫자와 괄호를 다 넣어야 하기 때문에 int형이어야 함 (숫자형으로)
